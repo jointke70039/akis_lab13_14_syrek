@@ -1,6 +1,7 @@
 .headerContainer {
   display: flex;
-
+ background-color: aquamarine;
+ text-align: center;
 }
 .headerLogo {
   width: 190px;

@@ -1,6 +1,6 @@
 import React, {Component} from 'react';
 //import logo from '../img/logo.png';
-import '../style/historia.css'
+import '../style/Historia.css'
 
 
 class Historia extends Component{

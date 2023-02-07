@@ -1,0 +1,7 @@
+.titlecont{
+    display: flex;
+    margin: auto;
+}
+.titlecont h2{
+    font-family: 'Itim';
+}

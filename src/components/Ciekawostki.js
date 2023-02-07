@@ -1,6 +1,6 @@
 import React, {Component} from 'react';
 //import logo from '../img/logo.png';
-import '../style/ciekawostki.css'
+import '../style/Ciekawostki.css'
 
 
 class Ciekawostki extends Component{
